@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "shell": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "shell-command-mcp"
+      ],
+      "env": {}
+    }
+  }
+}
